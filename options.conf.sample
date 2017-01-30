@@ -1,0 +1,10 @@
+# Folder where your files are
+SOURCE_FOLDER=
+# Folder where your links will be
+DESTINATION_FOLDER=
+# Outputs configuration at startup
+VERBOSE=1
+# All regular expressions are case insensitive
+CASE_INSENSITIVE=1
+# Setting this should do not touch your source folder
+DRY_RUN=1
